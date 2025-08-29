@@ -1,4 +1,7 @@
-# NextBasket
+<div style="text-align: center;">
+  <h1>NextBasket</h1>
+  <p>A web application for managing a shopping basket</p>
+</div>
 
 ## Table of Contents
 
