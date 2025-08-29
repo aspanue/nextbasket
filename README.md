@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>NextBasket</h1>
   <p>A web application for managing a shopping basket</p>
 </div>
