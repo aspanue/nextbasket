@@ -20,7 +20,7 @@
     1. [Branching](#branching)
     2. [State Management](#state-management-1)
     3. [Docker](#docker)
-    4. [CICD](#cicd)
+    4. [CI/CD](#cicd)
     5. [Testing](#testing-1)
 6. [Changelog](#changelog)
 
